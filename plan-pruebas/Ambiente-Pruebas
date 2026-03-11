@@ -1,0 +1,23 @@
+Ambiente de Pruebas
+
+Las pruebas se llevaron a cabo en un entorno que incluye:
+
+parrilla de cocina industrial
+
+utensilios de cocina estándar
+
+ingredientes frescos
+
+personal capacitado para la preparación
+
+En la analogía con el desarrollo de software, este entorno representa los elementos del ambiente tecnológico.
+
+Criterios de Aceptación
+
+El sistema se considera aprobado si se cumplen las siguientes condiciones:
+
+la hamburguesa mantiene una preparación consistente
+
+el tiempo total de producción es menor a 10 minutos
+
+el cliente evalúa el producto como satisfactorio
