@@ -11,26 +11,31 @@ detectar errores del proceso
 mejorar la calidad del producto
 garantizar que el cliente tenga una buena experiencia
 evitar sobrecostos en el producto 
+
 2️⃣ Estrategia de Pruebas
 Para conseguir la calidad del sistema se llevarán a cabo diferentes tipos de pruebas.
+
 🔎Pruebas Funcionales
 Descubrir que cada parte de la hamburguesa se elabore con el correcto proceso de elaboración.
 Ejemplo:
 preparación del pan
 cocción de la carne
 construcción de la hamburguesa
+
 👀 Pruebas de Calidad Visual
 Verificar la parte visual del producto final ofrecido.
 Revisamos:
 grupo de ingredientes correspondiente
 presentación de la hamburguesa
 estado del pan
+
 👅 Pruebas de Aceptación
 Simularemos la experiencia del cliente al consumir la hamburguesa gourmet.
 Verificamos:
 sabor
 textura
 temperatura
+
 ⏱Pruebas de Rendimiento
 Comprobar que el proceso para la elaboración sea eficiente.
 Ejemplo:
