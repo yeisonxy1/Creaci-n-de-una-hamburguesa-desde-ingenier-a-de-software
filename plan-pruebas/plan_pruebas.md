@@ -178,40 +178,6 @@ Paso 5 – Servir
 
 Finalmente, servimos la hamburguesa caliente y con una presentación adecuada.
 
-Estrategia de Seguimiento y Soporte Posterior al Proyecto
-
-Después de implementar el proceso, haremos un seguimiento para asegurarnos de que la calidad del producto se mantenga y pueda mejorar.
-
-Soporte
-
-El soporte incluye:
-
-revisar periódicamente la calidad del producto
-
-corregir posibles errores en la receta
-
-hacer ajustes en el proceso de preparación
-
-Mejora Continua
-
-Con la experiencia obtenida, podemos implementar mejoras como:
-
-incorporar nuevas recetas
-
-crear diferentes tipos de hamburguesas
-
-optimizar el tiempo de preparación
-
-Canales de Soporte
-
-El seguimiento del proyecto se apoyará en:
-
-el repositorio del proyecto
-
-la documentación técnica
-
-la retroalimentación de los clientes
-
 Tecnologías Utilizadas
 
 Durante el desarrollo del proyecto, utilizamos herramientas tecnológicas que facilitan la organización y documentación del trabajo.
